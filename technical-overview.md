@@ -100,13 +100,6 @@ Creating new quantum algorithms tailored for specific AI and multi-agent tasks i
 Quantum-enhanced multi-agent AI systems represent a promising frontier in problem-solving, offering unprecedented computational power and collaborative capabilities. As quantum hardware and algorithms continue to advance, we can expect these systems to revolutionize various fields, from scientific research to industrial applications.
 
 Citations:
-[1] https://deepgram.com/learn/top-arxiv-papers-about-ai-agents
-[2] https://www.zeiss.com/content/dam/Corporate/innovation_and_technology/downloads/zeiss-symposium_whitepaper_qc_qcom.pdf
-[3] https://www.restack.io/p/ai-for-quantum-computing-answer-quantum-applications-multi-agent-ai-cat-ai
-[4] https://www.freecodecamp.org/news/how-to-build-a-quantum-ai-model/
 [5] https://arxiv.org/abs/2101.04255
-[6] https://www.captechu.edu/blog/supercharging-ai-quantum-computing-look-future
 [7] http://arxiv.org/abs/2409.02977v1
-[8] https://www.fujitsu.com/au/imagesgig5/Digital_Annealer_case_study.pdf
-[9] https://www.bosonqpsi.com/post/revolutionizing-ai-with-quantum-computing-exploring-the-potential-and-applications
-[10] https://en.wikipedia.org/wiki/Quantum_artificial_intelligence
+
